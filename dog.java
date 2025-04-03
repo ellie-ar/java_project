@@ -6,7 +6,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *
- * @author Ahmad
+ * @author ellie
  */
 public class dog {
     
